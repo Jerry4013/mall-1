@@ -1,5 +1,7 @@
 # mall
 
+> Mall project is a whole suite of e-commerce platform, including front-stage online store system as well as back-stage management system, implemented based on SpringBoot+MyBatis. Front-stage store system includes modules such as homepage, product recommendation, product search, product show page, shopping cart, order process, member center, customer service, help center. Back-stage management system includes modules such as product management, order management, member management, campaign management, operations management, content management, statistic report, financial management, autherization management, settings, etc.
+
 ## 说明
 
 > 基于SpringBoot+MyBatis的电商系统，包括前台商城系统及后台管理系统。
